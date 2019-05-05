@@ -1,4 +1,3 @@
-const { GraphQLScalarType } = require('graphql').GraphQLScalarType;
 const db = require('./db');
 const axios = require('axios');
 const pgp = require('pg-promise')();

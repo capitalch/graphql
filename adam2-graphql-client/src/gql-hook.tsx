@@ -1,4 +1,3 @@
-import React from 'react';
 import { ApolloClient, HttpLink, InMemoryCache } from 'apollo-boost';
 import gql from 'graphql-tag';
 
