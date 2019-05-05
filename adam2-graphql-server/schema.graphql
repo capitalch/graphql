@@ -7,6 +7,10 @@ type Query {
 	brands: [Brand]
 }
 
+type Generic {
+	gen:String
+}
+
 type Brand {
 	id: ID!
 	name: String
